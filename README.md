@@ -28,3 +28,5 @@ Create a `.env` file in the root directory:
 SPREADSHEET_ID=your_sheet_id
 SHEET_NAME=[NEW] Pending Signals
 WEBHOOK_URL=your_google_chat_webhook
+
+<img width="749" height="424" alt="Screenshot 2026-07-21 6 35 43 PM" src="https://github.com/user-attachments/assets/3fe6c91e-e8f3-42ab-a0cb-750f028a7614" />
