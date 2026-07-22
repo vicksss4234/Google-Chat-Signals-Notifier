@@ -16,21 +16,7 @@ WEBHOOK_URL = os.getenv('WEBHOOK_URL')
 CREDENTIALS_FILE = os.getenv('CREDENTIALS_FILE', 'service_account.json')
 
 TSR_IDS = {
-   'josearriola': '110213380539507768641',
-   'bernardocampos': '102201233548672426249',
-   'brianarce': '104673666705614181949',
-   'santoscd': '102509840890143898981',
-   'diegooliva': '109943505155974475824',
-   'julioescamilla': '116678236001887834531',
-   'floresjulio': '113778332130459751842',
-   'kerena': '115851833290329368971',
-   'lurbina': '117804175259655741791',
-   'miguelburgos': '115239135852410362626',
-   'oscarportillo': '117635160654942865403',
-   'ricardoagustin': '115644321337150303214',
-   'raxelgerardo': '117277877028570116505',
-   'abiliop': '105175494136878558181',
-   'juliomenjivar': '115599676277430147205'
+   'victorparedes': '110213385377468768641',
 }
 
 TSR_A_FILTRAR = list(TSR_IDS.keys())
