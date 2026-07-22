@@ -1,0 +1,11 @@
+# Secretos y credenciales
+.env
+service_account.json
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Si en algún momento usas un entorno virtual local
+venv/
+env/
