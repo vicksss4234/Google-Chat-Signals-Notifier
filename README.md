@@ -19,6 +19,11 @@ Data Processing: Pandas
 APIs: Google Sheets API v4, Google Workspace Chat API (Webhooks)
 Deployment: Google Cloud Run (Jobs) & Cloud Scheduler
 
+## Screenshot of the automatization working 
+
+<img width="749" height="424" alt="Screenshot 2026-07-21 6 35 43 PM" src="https://github.com/user-attachments/assets/7bee2480-f6dd-4381-b4be-7a142bffdf7f" />
+
+
 ## Setup and Local Execution
 
 ### Configuration
@@ -29,4 +34,4 @@ SPREADSHEET_ID=your_sheet_id
 SHEET_NAME=[NEW] Pending Signals
 WEBHOOK_URL=your_google_chat_webhook
 
-<img width="749" height="424" alt="Screenshot 2026-07-21 6 35 43 PM" src="https://github.com/user-attachments/assets/3fe6c91e-e8f3-42ab-a0cb-750f028a7614" />
+
